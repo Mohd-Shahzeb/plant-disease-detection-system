@@ -50,6 +50,40 @@ This project uses a subset of the PlantVillage dataset containing labeled images
 4. Prediction is generated using softmax probabilities
 5. Result is displayed with confidence and disease info
 
----
 
-## 🖥️ Project Structure
+
+## Project Structure
+
+project/
+│── dataset/
+│── model/
+│ ├── plant_model.h5
+│ ├── classes.json
+│── templates/
+│ ├── index.html
+│ ├── result.html
+│── static/
+│ ├── style.css
+│ ├── uploaded.jpg
+│── train_model.py
+│── app.py
+
+
+
+
+## ▶️ How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run:
+   python app.py
+
+## 👨‍💻 Team Members
+- Mohd Shahzeb
+- Prgya Singal
+- Mohd Vazi
+- Priyanka Bhandari
+
+
+
+
