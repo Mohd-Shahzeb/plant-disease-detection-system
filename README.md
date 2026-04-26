@@ -80,7 +80,7 @@ project/
 
 ## 👨‍💻 Team Members
 - Mohd Shahzeb
-- Prgya Singal
+- Prgya Singhal
 - Mohd Vazi
 - Priyanka Bhandari
 
